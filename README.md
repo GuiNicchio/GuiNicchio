@@ -7,7 +7,7 @@
 <div align="start">
   <a href="https://github.com/GuiNicchio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiNicchio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Nicchio-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/626197_liGLgRU0.png">
+  <img align="right" alt="Nicchio-pic" height="200" style="border-radius:100px;" src="https://c.tenor.com/HKUc3og5OxAAAAAM/gato-cat.gif">
 </div>
 
 <div style="display: inline_block"><br>
