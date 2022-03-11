@@ -1,7 +1,7 @@
 ## Olá, prazer em conhecê-lo(a).
 
 * ⚙  Atualmente trabalho com back-end e front-end.
-* 📘 Estudando Java
+* 📘 Estudando PHP
 * ✉ Contato: guilhermenicchio.ow@gmail.com
 
 <div align="start">
